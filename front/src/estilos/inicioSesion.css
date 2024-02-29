@@ -1,0 +1,20 @@
+#card_sesion{
+    width: 30rem;
+    background: rgba(230, 124, 124, 0.8);
+    color: rgb(2, 2, 2);
+}
+
+.inicios {
+    background: url('../bg2.jpg');
+    /* height: 100%; */
+    min-height: 100vh; 
+   z-index: -1;
+   background-size: cover;
+   position: fixed;
+   top: 0;
+   left: 0;
+   right: 0;
+   bottom: 0;
+
+}
+
